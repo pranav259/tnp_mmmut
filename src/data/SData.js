@@ -517,7 +517,7 @@ const SData = [
   {
     id: 41,
     image: "",
-    name: "Vishu Srivastava",
+    name: "Pranav Sharma",
     post: "T&P Third Year",
     branch: "ECE-IOT",
     year: "Third",
